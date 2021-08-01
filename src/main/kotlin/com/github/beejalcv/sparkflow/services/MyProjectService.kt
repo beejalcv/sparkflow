@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.beejalcv.sparkflow.services
 
+import com.github.beejalcv.sparkflow.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
